@@ -112,6 +112,7 @@ private:	// User declarations
 	// Constants for grid dimensions
 	static constexpr int GRID_WIDTH = 10;  // Width of the grid in blocks
 	static constexpr int GRID_HEIGHT = 20; // Height of the grid in blocks
+
     // Define the grid array
 	int grid[GRID_HEIGHT][GRID_WIDTH] = {0};
 
